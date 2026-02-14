@@ -1,0 +1,9 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "proposal_graph": "graph_loader:create_proposal_graph"
+  },
+  "env": ".env",
+  "workspace": "."
+}
+
